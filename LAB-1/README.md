@@ -68,9 +68,9 @@ The objective of this assignment is to understand and implement fundamental **SQ
 ---
 
 ## 👤 Student Details
-- **Name:** Alok Kumar  
-- **Roll No:** 23425
-- **Reg. No:** 23105128017
+- **Name:** Mohammad alta alam  
+- **Roll No:** 23411
+- **Reg. No:** 23105128007
 - **Branch :** CSE 
 - **College:** BPMCE,Madhepura 
 - **Session:** 2023–2027  
