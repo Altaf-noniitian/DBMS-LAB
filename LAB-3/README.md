@@ -158,9 +158,9 @@ SELECT * FROM Enrollment;
 ---
 
 ## 👤 Student Details
-- **Name:** Alok Kumar  
-- **Roll No:** 23425
-- **Reg. No:** 23105128017
+- **Name:** Mohammad altaf alam  
+- **Roll No:** 23411
+- **Reg. No:** 23105128007
 - **Branch :** CSE 
 - **College:** BPMCE,Madhepura 
 - **Session:** 2023–2027  
